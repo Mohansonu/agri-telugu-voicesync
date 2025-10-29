@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_te": "వరి పంటలో తెగులు రావడం ఎలా నివారించాలి?",
+      "question_en": "How to prevent blight in rice crops?",
+      "answer_te": "వరి పంటలో తెగులు రావడం నివారించడానికి: 1) నాణ్యమైన విత్తనాలు ఉపయోగించండి 2) పొలంలో నీటి నిల్వను సరిగ్గా నిర్వహించండి 3) సమతుల్య ఎరువులు వేయండి 4) సకాలంలో కలుపు తీయండి 5) అవసరమైతే శిఫార్సు చేయబడిన శిలీంద్ర నాశకాలను ఉపయోగించండి.",
+      "answer_en": "To prevent blight in rice: 1) Use quality seeds 2) Manage water properly 3) Apply balanced fertilizers 4) Timely weeding 5) Use recommended fungicides if needed.",
+      "image": "disease_blight.svg",
+      "category": "disease"
+    },
+    {
+      "id": 2,
+      "question_te": "పత్తి పంటకు ఎన్ని రోజులకు ఒకసారి నీరు పెట్టాలి?",
+      "question_en": "How often should cotton crops be watered?",
+      "answer_te": "పత్తి పంటకు నీరు పెట్టడం: 1) విత్తనం తరువాత వెంటనే 2) చిగురు వచ్చిన తరువాత 15-20 రోజులకు ఒకసారి 3) పువ్వులు వచ్చే సమయంలో క్రమం తప్పకుండా 4) మట్టి తేమను బట్టి సర్దుబాటు చేయండి 5) వర్షాకాలంలో అదనపు నీరు అవసరం లేదు.",
+      "answer_en": "Cotton watering schedule: 1) Immediately after sowing 2) Every 15-20 days after germination 3) Regular during flowering 4) Adjust based on soil moisture 5) No extra water needed during monsoon.",
+      "image": "plant_cotton.svg",
+      "category": "irrigation"
+    },
+    {
+      "id": 3,
+      "question_te": "సేంద్రీయ ఎరువులు ఎలా తయారు చేయాలి?",
+      "question_en": "How to prepare organic fertilizers?",
+      "answer_te": "సేంద్రీయ ఎరువు తయారీ: 1) ఆకుపచ్చ వ్యర్థాలు, పశువుల పేడను సేకరించండి 2) గొయ్యి తవ్వి పొరల్లో పేర్చండి 3) తేమను కాపాడుకోండి 4) 2-3 నెలల తరువాత పూర్తిగా కుళ్ళిపోతుంది 5) ఈ ఎరువును పంట పొలాల్లో వాడండి.",
+      "answer_en": "Organic fertilizer preparation: 1) Collect green waste and cattle dung 2) Dig pit and layer them 3) Maintain moisture 4) Ready in 2-3 months 5) Use in crop fields.",
+      "image": "plant_rice.svg",
+      "category": "fertilizer"
+    },
+    {
+      "id": 4,
+      "question_te": "తుప్పు వ్యాధి ఏమిటి? ఎలా గుర్తించాలి?",
+      "question_en": "What is rust disease? How to identify it?",
+      "answer_te": "తుప్పు వ్యాధి లక్షణాలు: 1) ఆకుల మీద గోధుమ రంగు మచ్చలు 2) పసుపు రంగు పొడి వంటి పూత 3) ఆకులు ఎండిపోవడం 4) పంట వృద్ధి తగ్గడం. నివారణ: సమయానికి శిలీంద్ర నాశకాలు చల్లండి, ప్రభావితమైన భాగాలు తొలగించండి.",
+      "answer_en": "Rust disease symptoms: 1) Brown spots on leaves 2) Yellow powdery coating 3) Leaf drying 4) Reduced growth. Prevention: Apply fungicides timely, remove affected parts.",
+      "image": "disease_rust.svg",
+      "category": "disease"
+    },
+    {
+      "id": 5,
+      "question_te": "పంట తరువాత నేల సంరక్షణ ఎలా చేయాలి?",
+      "question_en": "How to maintain soil after harvest?",
+      "answer_te": "కోత తరువాత నేల సంరక్షణ: 1) పంట అవశేషాలను మట్టిలో కలపండి 2) పచ్చి ఎరువు పంటలు నాటండి 3) మట్టి పరీక్షించి అవసరమైన ఎరువులు వేయండి 4) లోతుగా దున్నడం వల్ల గాలి మార్పిడి మెరుగవుతుంది 5) సేంద్రీయ పదార్థాలు జోడించండి.",
+      "answer_en": "Post-harvest soil care: 1) Mix crop residues 2) Plant green manure crops 3) Test soil and apply needed fertilizers 4) Deep plowing improves aeration 5) Add organic matter.",
+      "image": "plant_rice.svg",
+      "category": "soil"
+    }
+  ]
+}
