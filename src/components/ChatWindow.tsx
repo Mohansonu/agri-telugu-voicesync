@@ -6,7 +6,7 @@ import { useToast } from "@/hooks/use-toast";
 import { supabase } from "@/integrations/supabase/client";
 import ChatBubble from "./ChatBubble";
 import TypingIndicator from "./TypingIndicator";
-import ImageCarousel from "./ImageCarousel";
+
 import ControlsBar from "./ControlsBar";
 import { startVoiceRecording, speakText, isSpeechRecognitionSupported } from "@/utils/speech";
 
@@ -122,13 +122,6 @@ const ChatWindow = () => {
     });
   };
 
-  // Sample images for carousel
-  const sampleImages = [
-    { src: "/images/plant_rice.svg", title: "వరి పంట", description: "Rice crop cultivation" },
-    { src: "/images/plant_cotton.svg", title: "పత్తి పంట", description: "Cotton farming" },
-    { src: "/images/disease_blight.svg", title: "తెగులు వ్యాధి", description: "Blight disease" },
-    { src: "/images/disease_rust.svg", title: "తుప్పు వ్యాధి", description: "Rust disease" },
-  ];
 
   return (
     <div className="flex flex-col h-screen bg-gradient-to-b from-background via-background to-muted/20">
@@ -149,10 +142,6 @@ const ChatWindow = () => {
         <ControlsBar onFormatChange={handleFormatChange} />
       </div>
 
-      {/* Image Carousel */}
-      <div className="max-w-4xl mx-auto w-full px-4 mb-4">
-        <ImageCarousel images={sampleImages} />
-      </div>
 
       {/* Messages */}
       <div className="flex-1 overflow-y-auto px-4 pb-4">
